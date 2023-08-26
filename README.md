@@ -7,7 +7,7 @@ Project aims to deliver High Performace Computing solution with Python interface
 The exact problem to be solved is [Square Packing Problem](https://en.wikipedia.org/wiki/Square_packing).
 Below best currently known solution for 11 squares can be found (credits to Wikipedia).
 
-![Alt text](Packing_11_unit_squares_in_a_square_with_side_length_3.87708359....svg-1.png)
+![Alt text](readme_stuff/Packing_11_unit_squares_in_a_square_with_side_length_3.87708359....svg-1.png)
 
 As some solutions may not be as "elegant" as they would be expected to be, mundate Evolutionary Algorithm may be useful.
 
