@@ -1,0 +1,35 @@
+{   
+
+    "problem_size": 16,
+    "initialize_feasible": true,
+    "use_exponential_sapling": true,
+    "dispersion_factor": 17.1,
+
+    "allow_iteration_stop": true,
+    "max_iterations": 1000,
+    "allow_fitness_stop": false,
+    "best_fitness": 1.0,
+    "allow_fitness_std_criterion": false,
+    "fitness_std_threshold": 0.01,
+    "population_size": 1000,
+    "verbose": true,
+
+    "crossover_rate": 0.7,
+    "n_cuts": 4,
+
+    "mutation_rate": 0.3,
+    "std_dev_spatial":  0.1,
+    "std_dev_angular":  0.1,
+    "transposition_rate": 0.1,
+    "allow_transpose": true,
+    "fraction_transposed": 0.5,
+
+    "use_penalty": true,
+    "center_solution": true,
+    "penalty_factor": 200.0,
+
+    "allow_elitism": true,
+    "tournament_size": 2,
+    "tournament_selection_factor": 0.9,
+    "elite_count": 15
+}
